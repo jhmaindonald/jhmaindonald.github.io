@@ -2,10 +2,10 @@
 title: "John Maindonald"
 image: JM-Dec2024.jpg
 toc: false
-about:
- template: trestles
- image-shape: rounded
- image-width: 12em
+about: 
+  template: jolla
+  image-shape: rounded
+  image-width: 12em
 ---
 
 The website for "A Practical Guide to Data Analysis Using R ..." (CUP 2024), with coauthors John Braun and Jeffrey Andrews, can be found at
