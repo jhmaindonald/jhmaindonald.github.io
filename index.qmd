@@ -1,11 +1,15 @@
 ---
-title: "jhmaindonald.github.io"
+title: "John Maindonald"
+image: JM-Dec2024.jpg
+toc: false
+about:
+ template: trestles
+ image-shape: rounded
+ image-width: 12em
 ---
 
-This is a Quarto website.
+The website for "A Practical Guide to Data Analysis Using R ..." (CUP 2024), with coauthors John Braun and Jeffrey Andrews, can be found at
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[https://](https://quarto.org/docs/websites){.uri}jhmaindonald.github.io/PGRcode/.
 
-```{r}
-1 + 1
-```
+Additionally, links are likely to be added, in due course, for web pages relevant to John Maindonald's life, work, and involvements.
