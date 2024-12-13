@@ -8,7 +8,7 @@ about:
   image-width: 12em
 ---
 
-The website for "A Practical Guide to Data Analysis Using R ..." (CUP 2024), with coauthors John Braun and Jeffrey Andrews, can be found at
+For the website for "A Practical Guide to Data Analysis Using R ..." (John Maindonald with coauthors John Braun and Jeffrey Andrews, CUP 2024), go to
 
 [https://](https://quarto.org/docs/websites){.uri}[jhmaindonald.github.io/PGRcode/](https://jhmaindonald.github.io/PGRcode/).
 
